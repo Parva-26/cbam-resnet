@@ -1,2 +1,18 @@
+
+# large model checkpoint files — stored on google drive, not github
 checkpoints/
+
+# cifar-10 dataset downloaded by torchvision at runtime
 data/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# os files
+.DS_Store
