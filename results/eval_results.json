@@ -1,0 +1,10 @@
+{
+  "baseline": {
+    "top1_accuracy": 88.49,
+    "total_params": 23520842
+  },
+  "cbam": {
+    "top1_accuracy": 94.65,
+    "total_params": 26037354
+  }
+}
